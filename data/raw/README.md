@@ -1,11 +1,16 @@
-This directory should contains the file(s) :
+This directory should contain the file(s) :
 ```
- - 2015-building-energy-benchmarking.csv
- - 2016-building-energy-benchmarking.csv
+ - olist_customers_dataset.csv
+ - olist_geolocation_dataset.csv
+ - olist_orders_dataset.csv
+ - olist_order_items_dataset.csv
+ - olist_order_payments_dataset.csv
+ - olist_order_reviews_dataset.csv
+ - olist_products_dataset.csv
+ - olist_sellers_dataset.csv
+ - product_category_name_translation.csv
 ```
 
-that you can download from : 
- - https://data.seattle.gov/dataset/2015-Building-Energy-Benchmarking/h7rm-fz6m
- - https://data.seattle.gov/dataset/2016-Building-Energy-Benchmarking/2bpz-gwpy
+that you can download from : https://www.kaggle.com/olistbr/brazilian-ecommerce
 
 as input(s) of the first notebook.
