@@ -1,0 +1,5 @@
+notebooks/*.csv
+notebooks/*.xls*
+notebooks/*.pkl
+work/*
+OLD/*
